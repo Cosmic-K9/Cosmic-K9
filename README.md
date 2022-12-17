@@ -1,16 +1,15 @@
 ### Hi there 👋
+🔭 I’m currently working on my website and artwork
 
-<!--
-**Cosmic-K9/Cosmic-K9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning how to use various NPM and CSS libraries to make my website look better
 
-Here are some ideas to get you started:
+💬 Ask me about the Mountain Dew® Baja Blast™ Freeze from Taco Bell®
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 Pronouns: He/They
+
+⚡ Fun fact:  Male donkeys (jacks) typically have larger testicles and a larger penis than male horses (stallions). Now who's the ass?
+
+📫 How to reach me:
+  - Discord: CosmicK9#1339
+  - Telegram: https://t.me/cosmick9
+  - Email: github@cosmick9.net
